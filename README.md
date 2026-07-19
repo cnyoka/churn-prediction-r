@@ -1,6 +1,6 @@
 # Customer Churn Prediction — UK Online Gift Retailer
 
-Binary churn classification in R on the UCI Online Retail II dataset: 805,549 cleaned transactions, 5,038 modelled customers, 18 months of purchase history. Logistic regression as the primary model with a decision tree comparison, packaged as an executive brief with deployment recommendations. Built during my MSBA at Hult International Business School.
+Binary churn classification in R on the UCI Online Retail II dataset: 805,549 cleaned transactions, 5,038 modelled customers, 18 months of purchase history. Logistic regression as the primary model with a decision tree comparison, packaged as an executive brief with deployment recommendations. Built during my MBAN at Hult International Business School.
 
 **Headline results: 72.4% accuracy, 74.3% sensitivity (catches 3 of 4 actual churners), AUC 0.797** — the model ranks a churner above a non-churner ~80% of the time, well above the 50% random baseline.
 
@@ -52,4 +52,4 @@ R · tidyverse · lubridate · caret · pROC · rpart/rpart.plot
 
 ## Notes
 
-Individual capstone assignment, Hult MSBA. The full executive brief (business context, findings, recommendations, risk/ESG considerations) is summarized above.
+Hult MBAN. The full executive brief (business context, findings, recommendations, risk/ESG considerations) is summarized above.
